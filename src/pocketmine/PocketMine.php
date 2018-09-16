@@ -37,10 +37,10 @@ namespace pocketmine {
     use pocketmine\utils\VersionString;
     use pocketmine\wizard\SetupWizard;
 
-    const NAME = "Altay";
-    const BASE_VERSION = "4.0.0";
+    const NAME = "Zeta";
+    const BASE_VERSION = "4.1.0";
     const IS_DEVELOPMENT_BUILD = true;
-    const BUILD_NUMBER = 0;
+    const BUILD_NUMBER = 15;
 
     const MIN_PHP_VERSION = "7.2.0";
 
