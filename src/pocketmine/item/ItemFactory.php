@@ -268,6 +268,12 @@ class ItemFactory{
 		self::registerItem(new RecordWard());
 		self::registerItem(new Record11());
 		self::registerItem(new RecordWait());
+		
+		//NEW ITEM UPDATE
+		self::registerItem(new Trident());
+		self::registerItem(new TurtleHelmet());
+		
+		self::registerItem(new LongLastingPotion());
 	}
 
 	/**
